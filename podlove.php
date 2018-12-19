@@ -1,14 +1,14 @@
 <?php
 /**
- * Plugin Name: Podlove Podcast Publisher
+ * Plugin Name: Podlove Podcast Publisher Custom
  * Plugin URI:  http://publisher.podlove.org
  * Description: The one and only next generation podcast publishing system. Seriously. It's magical and sparkles a lot.
  * Version:     2.7.19
- * Author:      Podlove
- * Author URI:  http://podlove.org
+ * Author:      Nils Denon
+ * Author URI:  http://nilsdenon.com
  * License:     MIT
  * License URI: license.txt
- * Text Domain: podlove-podcasting-plugin-for-wordpress
+ * Text Domain: podlove-podcasting-plugin-for-wordpress-custom
  */
 
 function load_podlove_podcast_publisher() {
